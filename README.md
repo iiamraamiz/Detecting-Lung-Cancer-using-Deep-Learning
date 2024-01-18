@@ -1,2 +1,3 @@
-# Detecting-Lung-Caner-using-Deep-Learning
-Image Classification using Deep Learning
+# Detecting-Lung-Cancer-using-Deep-Learning
+##### Dataset Link : https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images
+This project utilizes the image augmentation techniques used for preprocessing the histopathological images of lung cells and cancerous cells, after preprocessing these images are used to train deep learning models to classify them into different categories (Cancerous, Acute, Non-Cancerous), the model parameters are fine-tuned to acheive higher accuracy and determine the exact category for each input. Transfer learning is also used to gain a better understanding of how different models perform under different circumstances. Pre-defined models such as VGG-16 has also been trained and tested on this data. 
